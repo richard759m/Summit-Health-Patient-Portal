@@ -3,6 +3,7 @@
 
 The Summit Health Patient Portal is a comprehensive web application designed to streamline patient management,
 providing users with easy access to medical records, appointment scheduling, and communication with healthcare providers. 
+
 This portal enhances the patient experience by offering a secure, user-friendly interface, 
 allowing patients to manage their health information from anywhere at any time. It is built with modern web technologies to ensure scalability, performance, and security.
 
